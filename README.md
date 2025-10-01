@@ -265,9 +265,13 @@ Contribuições são bem-vindas! Este é um projeto educacional e melhorias são
 
 Este projeto é um material educacional desenvolvido para fins de aprendizado e mentoria.
 
-## 👥 Autores
+## 👥 Autor
 
-Projeto desenvolvido como parte do programa de mentoria - Setembro 2025
+**Rodrigo Rahman**
+Google Developer Expert em Flutter e Dart
+
+📚 Mentoria realizada pela [Academia do Flutter](https://academiadoflutter.com.br)
+📅 Setembro 2025
 
 ---
 
