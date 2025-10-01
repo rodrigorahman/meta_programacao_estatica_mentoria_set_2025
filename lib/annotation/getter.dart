@@ -1,0 +1,3 @@
+class Getter {
+  const Getter();
+}

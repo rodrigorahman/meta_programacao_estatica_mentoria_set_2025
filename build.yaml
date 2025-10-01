@@ -1,0 +1,15 @@
+targets:
+  $default:
+    builders:
+      mentoria_set_2025|codegen:
+        enabled: true
+        generate_for:
+          - lib/model/**
+
+builders:
+  codegen:
+    import: "package:mentoria_set_2025/generators/combined_generator.dart"
+    builder_factories: ["codeGenBuilder"]
+    build_extensions: { ".dart": [".g.dart"] }
+    auto_apply: dependents
+    build_to: source
